@@ -63,7 +63,7 @@ display:inline-block;
       <div style="background-color: gray;background-color: #9dc5c3;
     background-image: linear-gradient(gray,yellow);" class="card">
         <i class="card-icon fas fa-map-marker-alt"></i>
-        <center><p style="color:red">City: Coimbatore<br> State: Tamilnadu<br> Country: India</p></center>
+        <center><p style="color:red">City: Coimbatore<br> State: Tamilnadu</br> Country: India</p></center>
       </div>
     </div>
     
