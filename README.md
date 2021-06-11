@@ -20,7 +20,7 @@ Front-end : HTML, CSS, Bootstrap
 
 Back-end : PHP
 
-Database : 
+Database : MYSQL
 
 Flow of the Website: Home Page > View all Users > Details of Customer > Transfer Money > Select reciever > View all Users > View Transfer History.
 
